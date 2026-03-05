@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+tqdm
+langchain
+chromadb
+sentence-transformers
+fastapi
+uvicorn
