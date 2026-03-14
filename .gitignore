@@ -11,3 +11,6 @@ __pycache__/
 
 # env
 .env
+
+# json
+financial-regulation-rag-9d8ac378a62c.json
